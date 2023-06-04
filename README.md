@@ -48,4 +48,5 @@ Contributions to this project are welcome. If you encounter any issues or have s
 
 This project is licensed under the [MIT License](LICENSE).
 
-
+## Disclaimer
+This tool is provided for educational and research purpose only. The author of this project are no way responsible for any misuse of this tool.
